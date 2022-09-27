@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "用于查看标签或关键字的任何 YouTube 视频"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "请帮助和评价我们！"
+   }, 
+   "rowTagsContentEmpty": {
+      "message": "The video has no tags"
+   },
+   "rowTagsContentError": {
+      "message": "Error"
+   },
+   "rowTagsName": {
+      "message": "Tags"
+   }
+}

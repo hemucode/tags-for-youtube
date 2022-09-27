@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "Elke YouTube-fideo om de tags of kaaiwurden te besjen"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "Graach wurdearje!"
+   },
+   "rowTagsContentEmpty": {
+      "message": "La vidéo n'a pas de tags"
+   },
+   "rowTagsContentError": {
+      "message": "Erreur"
+   },
+   "rowTagsName": {
+      "message": "Tags"
+   }
+}

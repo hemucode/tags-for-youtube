@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "タグまたはキーワードを表示する YouTube ビデオ"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "評価してください！"
+   },
+   "rowTagsContentEmpty": {
+      "message": "ビデオにはタグがありません"
+   },
+   "rowTagsContentError": {
+      "message": "エラー"
+   },
+   "rowTagsName": {
+      "message": "タグ"
+   }
+}

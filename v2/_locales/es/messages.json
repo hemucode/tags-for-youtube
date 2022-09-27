@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "Cualquier video de YouTube para ver las etiquetas o palabras clave"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "¡Por favor, valora!"
+   },
+   "rowTagsContentEmpty": {
+      "message": "El video no tiene tags"
+   },
+   "rowTagsContentError": {
+      "message": "Error"
+   },
+   "rowTagsName": {
+      "message": "Tags"
+   }
+}

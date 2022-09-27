@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "Любое видео YouTube для просмотра тегов или ключевых слов"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "Пожалуйста, оцените!"
+   },
+   "rowTagsContentEmpty": {
+      "message": "У видео нет тегов"
+   },
+   "rowTagsContentError": {
+      "message": "Ошибка"
+   },
+   "rowTagsName": {
+      "message": "Теги"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "Any YouTube video to view the tags or keywords"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "Please help and rate us!"
+   }, 
+   "rowTagsContentEmpty": {
+      "message": "The video has no tags"
+   },
+   "rowTagsContentError": {
+      "message": "Error"
+   },
+   "rowTagsName": {
+      "message": "Tags"
+   }
+}

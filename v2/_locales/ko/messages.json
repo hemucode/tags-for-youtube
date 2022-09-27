@@ -1,0 +1,21 @@
+{
+   "appDesc": {
+      "message": "태그 또는 키워드를 볼 수 있는 모든 YouTube 동영상"
+   },
+   "appName": {
+      "message": "Tags for YouTube™"
+   },
+   "rate":{
+      "message": "도와주시고 평가해주세요"
+   }, 
+   "rowTagsContentEmpty": {
+      "message": "The video has no tags"
+   },
+   "rowTagsContentError": {
+      "message": "Error"
+   },
+   "rowTagsName": {
+      "message": "Tags"
+   }
+}
+
